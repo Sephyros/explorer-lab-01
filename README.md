@@ -46,3 +46,7 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+
+Númeração do cartão
+https://bit.ly/3VOI10K
